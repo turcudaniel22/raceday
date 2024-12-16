@@ -74,7 +74,7 @@ cd race-day-registration
 node index.js
 
 🧩 Code Example
-
+ `
 Here’s the core program logic:
 let raceNumber = Math.floor(Math.random() \* 1000);
 let isRegisterEarly = true;
@@ -93,6 +93,7 @@ console.log(`Your race starts at 12:30 pm. Your race number is ${raceNumber}.`);
 } else {
 console.log("Please see the registration desk for assistance.");
 }
+ `
 
 ⚙️ Customization
 
